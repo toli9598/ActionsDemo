@@ -18,4 +18,4 @@ jobs:
         python-version: '3.x'
 
     - name: Run script
-      run: python hello_world.py
+      run: python hw.py
