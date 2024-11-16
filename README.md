@@ -1,7 +1,7 @@
 # ActionsDemo
 
 1. Create **new GitHub**: GitHubActions
-2. Create **hw.py** in toplevel including print("Hello SRH!")
+2. Create **hello_world.py** in toplevel including print("Hello SRH!")
 3. Create a directory **.github/workflows/** (Slash at end)
 4. Create a file **python-script.yml** that includes the action:
 
