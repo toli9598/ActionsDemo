@@ -26,7 +26,7 @@ jobs:
         python-version: '3.x'
 
     - name: Run script
-      run: python hello_world.py
+      run: python hw.py
 ```
 
 5. Go to actions, select the action and select **run**
